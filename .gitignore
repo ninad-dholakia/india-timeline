@@ -1,0 +1,25 @@
+# Ignore Python virtual environment
+venv/
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and database files (if any)
+*.log
+*.sqlite3
+
+# Ignore environment variables and credentials (if any)
+.env
+
+# Ignore frontend build files (if applicable)
+node_modules/
+dist/
+build/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
