@@ -1,0 +1,1251 @@
+[
+    {
+      "year": 1857,
+      "event": "First War of Independence begins against British rule across North India",
+      "category": "Military/Security",
+      "id": 1,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857"
+        }
+      ]
+    },
+    {
+      "year": 1858,
+      "event": "British Crown takes direct control of India from East India Company through Government of India Act",
+      "category": "Political",
+      "id": 2,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1858"
+        }
+      ]
+    },
+    {
+      "year": 1859,
+      "event": "First railway line opens in Eastern India (Calcutta to Raniganj)",
+      "category": "Scientific/Technological",
+      "id": 3,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_rail_transport_in_India"
+        }
+      ]
+    },
+    {
+      "year": 1861,
+      "event": "Indian Police Act establishes organized police system",
+      "category": "Military/Security",
+      "id": 4,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indian_Police_Service"
+        }
+      ]
+    },
+    {
+      "year": 1863,
+      "event": "First language movement starts in Bengal against imposition of Hindi",
+      "category": "Political",
+      "id": 5,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bengali_language_movement"
+        }
+      ]
+    },
+    {
+      "year": 1865,
+      "event": "First telegraph line between India and Europe established",
+      "category": "Scientific/Technological",
+      "id": 6,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/History_of_telecommunications_in_India"
+        }
+      ]
+    },
+    {
+      "year": 1867,
+      "event": "First cotton mill established in Bombay by Tata",
+      "category": "Economical/Financial",
+      "id": 7,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Textile_industry_in_India"
+        }
+      ]
+    },
+    {
+      "year": 1869,
+      "event": "Suez Canal opens, dramatically reducing shipping time between India and Europe",
+      "category": "Economical/Financial",
+      "id": 8,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Suez_Canal"
+        }
+      ]
+    },
+    {
+      "year": 1870,
+      "event": "Mayo's Resolution introduces financial decentralization in British India",
+      "category": "Economical/Financial",
+      "id": 9,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mayo%27s_Resolution"
+        }
+      ]
+    },
+    {
+      "year": 1872,
+      "event": "First census of British India conducted",
+      "category": "Political",
+      "id": 10,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Census_of_India"
+        }
+      ]
+    },
+    {
+      "year": 1875,
+      "event": "Establishment of Aligarh Muslim University by Sir Syed Ahmad Khan",
+      "category": "Political",
+      "id": 11,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aligarh_Muslim_University"
+        }
+      ]
+    },
+    {
+      "year": 1876,
+      "event": "Queen Victoria proclaimed Empress of India; Royal Titles Act passed",
+      "category": "Political",
+      "id": 12,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Emperor_of_India"
+        }
+      ]
+    },
+    {
+      "year": 1877,
+      "event": "First Delhi Durbar held to proclaim Queen Victoria as Empress of India",
+      "category": "Political",
+      "id": 13,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Delhi_Durbar"
+        }
+      ]
+    },
+    {
+      "year": 1878,
+      "event": "Vernacular Press Act imposed to control Indian language newspapers",
+      "category": "Political",
+      "id": 14,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vernacular_Press_Act"
+        }
+      ]
+    },
+    {
+      "year": 1880,
+      "event": "First electric streetlight installed in Calcutta",
+      "category": "Scientific/Technological",
+      "id": 15,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Electricity_sector_in_India"
+        }
+      ]
+    },
+    {
+      "year": 1883,
+      "event": "Ilbert Bill Controversy over Indian judges trying European defendants",
+      "category": "Political",
+      "id": 16,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ilbert_Bill"
+        }
+      ]
+    },
+    {
+      "year": 1885,
+      "event": "Indian National Congress founded; First session held in Bombay",
+      "category": "Political",
+      "id": 17,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indian_National_Congress"
+        }
+      ]
+    },
+    {
+      "year": 1887,
+      "event": "Queen Victoria's Golden Jubilee; Indian princes contribute significantly",
+      "category": "Political",
+      "id": 18,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Golden_Jubilee_of_Queen_Victoria"
+        }
+      ]
+    },
+    {
+      "year": 1889,
+      "event": "Indian Universities Act passed to regulate higher education",
+      "category": "Political",
+      "id": 19,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/University_education_in_India"
+        }
+      ]
+    },
+    {
+      "year": 1891,
+      "event": "Age of Consent Act raises marriage age for girls to 12",
+      "category": "Political",
+      "id": 20,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Age_of_Consent_Act,_1891"
+        }
+      ]
+    },
+    {
+      "year": 1893,
+      "event": "First factory act passed to regulate working conditions",
+      "category": "Economical/Financial",
+      "id": 21,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Labour_law_in_India"
+        }
+      ]
+    },
+    {
+      "year": 1895,
+      "event": "First film shown in India by Lumière Brothers in Bombay",
+      "category": "Scientific/Technological",
+      "id": 22,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Cinema_of_India"
+        }
+      ]
+    },
+    {
+      "year": 1897,
+      "event": "Plague epidemic hits Bombay; Rand murder case leads to first political assassination",
+      "category": "Political",
+      "id": 23,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Third_plague_pandemic"
+        }
+      ]
+    },
+    {
+      "year": 1899,
+      "event": "Great Indian Famine begins, affecting millions across India",
+      "category": "Economical/Financial",
+      "id": 24,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indian_famine_of_1899%E2%80%931900"
+        }
+      ]
+    },
+    {
+      "year": 1900,
+      "event": "Indian Gold Standard Act establishes gold standard currency system",
+      "category": "Economical/Financial",
+      "id": 25,
+      "sources": [
+        {
+          "text": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indian_Gold_Standard_Act"
+        }
+      ]
+    },
+    {
+        "year": 1901,
+        "event": "Death of Queen Victoria; Edward VII becomes Emperor of India",
+        "category": "Political",
+        "id": 26,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Emperor_of_India"
+          }
+        ]
+      },
+      {
+        "year": 1902,
+        "event": "First Indian to win Nobel Prize (Literature) - Rabindranath Tagore",
+        "category": "Political",
+        "id": 27,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rabindranath_Tagore"
+          }
+        ]
+      },
+      {
+        "year": 1903,
+        "event": "Delhi Archaeological Museum established",
+        "category": "Scientific/Technological",
+        "id": 28,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/National_Museum,_New_Delhi"
+          }
+        ]
+      },
+      {
+        "year": 1904,
+        "event": "Indian Universities Commission appointed to reform higher education",
+        "category": "Political",
+        "id": 29,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/History_of_higher_education_in_India"
+          }
+        ]
+      },
+      {
+        "year": 1905,
+        "event": "Partition of Bengal by Lord Curzon; Swadeshi Movement begins",
+        "category": "Political",
+        "id": 30,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Partition_of_Bengal_(1905)"
+          }
+        ]
+      },
+      {
+        "year": 1906,
+        "event": "Muslim League founded in Dacca",
+        "category": "Political",
+        "id": 31,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/All-India_Muslim_League"
+          }
+        ]
+      },
+      {
+        "year": 1907,
+        "event": "Surat Split in Indian National Congress between moderates and extremists",
+        "category": "Political",
+        "id": 32,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Surat_Split"
+          }
+        ]
+      },
+      {
+        "year": 1908,
+        "event": "Tata Iron and Steel Company (TISCO) established",
+        "category": "Economical/Financial",
+        "id": 33,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tata_Steel"
+          }
+        ]
+      },
+      {
+        "year": 1909,
+        "event": "Morley-Minto Reforms introduce separate electorates",
+        "category": "Political",
+        "id": 34,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Morley%E2%80%93Minto_Reforms"
+          }
+        ]
+      },
+      {
+        "year": 1911,
+        "event": "Delhi Durbar held; Capital shifted from Calcutta to Delhi",
+        "category": "Political",
+        "id": 35,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Delhi_Durbar"
+          }
+        ]
+      },
+      {
+        "year": 1912,
+        "event": "First Indian motion picture 'Raja Harishchandra' released",
+        "category": "Scientific/Technological",
+        "id": 36,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Raja_Harishchandra"
+          }
+        ]
+      },
+      {
+        "year": 1913,
+        "event": "Ghadar Party formed to overthrow British rule through armed revolution",
+        "category": "Military/Security",
+        "id": 37,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Ghadar_Party"
+          }
+        ]
+      },
+      {
+        "year": 1914,
+        "event": "World War I begins; India contributes significantly to British war effort",
+        "category": "Military/Security",
+        "id": 38,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/India_in_World_War_I"
+          }
+        ]
+      },
+      {
+        "year": 1915,
+        "event": "Gandhi returns from South Africa; Home Rule Movement begins",
+        "category": "Political",
+        "id": 39,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indian_Home_Rule_movement"
+          }
+        ]
+      },
+      {
+        "year": 1916,
+        "event": "Lucknow Pact between Congress and Muslim League; BANARAS HINDU UNIVERSITY established",
+        "category": "Political",
+        "id": 40,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lucknow_Pact"
+          }
+        ]
+      },
+      {
+        "year": 1917,
+        "event": "Champaran Satyagraha - Gandhi's first civil disobedience movement",
+        "category": "Political",
+        "id": 41,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Champaran_Satyagraha"
+          }
+        ]
+      },
+      {
+        "year": 1918,
+        "event": "Montagu-Chelmsford reforms announced; Spanish Flu pandemic hits India",
+        "category": "Political",
+        "id": 42,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Montagu%E2%80%93Chelmsford_Reforms"
+          }
+        ]
+      },
+      {
+        "year": 1919,
+        "event": "Rowlatt Act passed; Jallianwala Bagh Massacre occurs",
+        "category": "Military/Security",
+        "id": 43,
+        "sources": [
+          {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre"
+          }
+        ]
+      },
+    {
+        "year": 1920,
+        "event": "Non-Cooperation Movement launched; Aligarh Muslim University established",
+        "category": "Political",
+        "id": 44,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Non-cooperation_movement"
+        }
+        ]
+    },
+    {
+        "year": 1921,
+        "event": "First Indian to become FRS (Fellow of Royal Society) - Srinivasa Ramanujan",
+        "category": "Scientific/Technological",
+        "id": 45,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Srinivasa_Ramanujan"
+        }
+        ]
+    },
+    {
+        "year": 1922,
+        "event": "Chauri Chaura incident leads to suspension of Non-Cooperation Movement",
+        "category": "Political",
+        "id": 46,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Chauri_Chaura_incident"
+        }
+        ]
+    },
+    {
+        "year": 1923,
+        "event": "Swaraj Party formed by C.R. Das and Motilal Nehru",
+        "category": "Political",
+        "id": 47,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Swaraj_Party"
+        }
+        ]
+    },
+    {
+        "year": 1924,
+        "event": "First Indian Film Studio 'Kohinoor Film Company' established",
+        "category": "Scientific/Technological",
+        "id": 48,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Cinema_of_India"
+        }
+        ]
+    },
+    {
+        "year": 1925,
+        "event": "RSS (Rashtriya Swayamsevak Sangh) founded by K.B. Hedgewar",
+        "category": "Political",
+        "id": 49,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Rashtriya_Swayamsevak_Sangh"
+        }
+        ]
+    },
+    {
+        "year": 1926,
+        "event": "Trade Unions legalized through Trade Unions Act",
+        "category": "Economical/Financial",
+        "id": 50,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Trade_unions_in_India"
+        }
+        ]
+    },
+    {
+        "year": 1927,
+        "event": "Simon Commission appointed to review political reforms",
+        "category": "Political",
+        "id": 51,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Simon_Commission"
+        }
+        ]
+    },
+    {
+        "year": 1928,
+        "event": "Nehru Report proposes constitutional reforms; First Indian sound film produced",
+        "category": "Political",
+        "id": 52,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nehru_Report"
+        }
+        ]
+    },
+    {
+        "year": 1929,
+        "event": "Purna Swaraj (Complete Independence) declared as Congress goal",
+        "category": "Political",
+        "id": 53,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Purna_Swaraj"
+        }
+        ]
+    },
+    {
+        "year": 1930,
+        "event": "Salt Satyagraha (Dandi March) launched; First Round Table Conference held",
+        "category": "Political",
+        "id": 54,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Salt_March"
+        }
+        ]
+    },
+    {
+        "year": 1931,
+        "event": "Gandhi-Irwin Pact signed; Second Round Table Conference held",
+        "category": "Political",
+        "id": 55,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Gandhi%E2%80%93Irwin_Pact"
+        }
+        ]
+    },
+    {
+        "year": 1932,
+        "event": "Communal Award announced; Poona Pact signed between Gandhi and Ambedkar",
+        "category": "Political",
+        "id": 56,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Poona_Pact"
+        }
+        ]
+    },
+    {
+        "year": 1933,
+        "event": "First Indian Air Force squadron established",
+        "category": "Military/Security",
+        "id": 57,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indian_Air_Force"
+        }
+        ]
+    },
+    {
+        "year": 1934,
+        "event": "Reserve Bank of India Act passed",
+        "category": "Economical/Financial",
+        "id": 58,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Reserve_Bank_of_India"
+        }
+        ]
+    },
+    {
+        "year": 1935,
+        "event": "Government of India Act introduces provincial autonomy",
+        "category": "Political",
+        "id": 59,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Government_of_India_Act_1935"
+        }
+        ]
+    },
+    {
+        "year": 1936,
+        "event": "All India Radio begins operations",
+        "category": "Scientific/Technological",
+        "id": 60,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/All_India_Radio"
+        }
+        ]
+    },
+    {
+        "year": 1937,
+        "event": "Provincial elections held; Congress forms governments in several provinces",
+        "category": "Political",
+        "id": 61,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1937_Indian_provincial_elections"
+        }
+        ]
+    },
+    {
+        "year": 1938,
+        "event": "National Planning Committee established under Nehru",
+        "category": "Economical/Financial",
+        "id": 62,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Planning_Commission_(India)"
+        }
+        ]
+    },
+    {
+        "year": 1939,
+        "event": "World War II begins; Congress ministries resign in protest",
+        "category": "Military/Security",
+        "id": 63,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/India_in_World_War_II"
+        }
+        ]
+    },
+    {
+        "year": 1940,
+        "event": "Lahore Resolution (Pakistan Resolution) passed by Muslim League",
+        "category": "Political",
+        "id": 64,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Lahore_Resolution"
+        }
+        ]
+    },
+    {
+        "year": 1941,
+        "event": "Indian Statistical Institute established; Forward Bloc formed by Subhas Chandra Bose",
+        "category": "Scientific/Technological",
+        "id": 65,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indian_Statistical_Institute"
+        }
+        ]
+    },
+    {
+        "year": 1942,
+        "event": "Quit India Movement launched; Cripps Mission fails",
+        "category": "Political",
+        "id": 66,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Quit_India_Movement"
+        }
+        ]
+    },
+    {
+        "year": 1943,
+        "event": "Bengal Famine kills millions; Subhas Chandra Bose forms INA",
+        "category": "Military/Security",
+        "id": 67,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Bengal_famine_of_1943"
+        }
+        ]
+    },
+    {
+        "year": 1944,
+        "event": "Indian Army becomes world's largest volunteer army during WW2",
+        "category": "Military/Security",
+        "id": 68,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indian_Army_during_World_War_II"
+        }
+        ]
+    },
+    {
+        "year": 1945,
+        "event": "Wavell Plan proposed; INA trials begin",
+        "category": "Political",
+        "id": 69,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Wavell_Plan"
+        }
+        ]
+    },
+    {
+        "year": 1946,
+        "event": "Royal Indian Navy Mutiny; Cabinet Mission arrives; Interim Government formed",
+        "category": "Political",
+        "id": 70,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Royal_Indian_Navy_mutiny"
+        }
+        ]
+    },
+    {
+        "year": 1947,
+        "event": "India gains independence; Partition creates India and Pakistan",
+        "category": "Political",
+        "id": 71,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Partition_of_India"
+        }
+        ]
+    },
+    {
+        "year": 1948,
+        "event": "Assassination of Mahatma Gandhi; Operation Polo integrates Hyderabad into India",
+        "category": "Political",
+        "id": 72,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Assassination_of_Mahatma_Gandhi"
+        }
+        ]
+    },
+    {
+        "year": 1949,
+        "event": "Constitution of India adopted by Constituent Assembly",
+        "category": "Political",
+        "id": 73,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Constitution_of_India"
+        }
+        ]
+    },
+    {
+        "year": 1950,
+        "event": "India becomes Republic; Supreme Court established; Planning Commission formed",
+        "category": "Political",
+        "id": 74,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Republic_Day_(India)"
+        }
+        ]
+    },
+    {
+        "year": 1951,
+        "event": "First Five-Year Plan launched; IIT Kharagpur established",
+        "category": "Economical/Financial",
+        "id": 75,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/First_Five-Year_Plan_(India)"
+        }
+        ]
+    },
+    {
+        "year": 1952,
+        "event": "First general elections held; Communist Party wins in Kerala",
+        "category": "Political",
+        "id": 76,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1951%E2%80%9352_Indian_general_election"
+        }
+        ]
+    },
+    {
+        "year": 1953,
+        "event": "First linguistic state (Andhra Pradesh) created",
+        "category": "Political",
+        "id": 77,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Andhra_State"
+        }
+        ]
+    },
+    {
+        "year": 1954,
+        "event": "Panchsheel Agreement signed with China; French territories integrated",
+        "category": "Political",
+        "id": 78,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Five_Principles_of_Peaceful_Coexistence"
+        }
+        ]
+    },
+    {
+        "year": 1955,
+        "event": "First atomic reactor 'Apsara' becomes operational",
+        "category": "Scientific/Technological",
+        "id": 79,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Apsara_(reactor)"
+        }
+        ]
+    },
+    {
+        "year": 1956,
+        "event": "States Reorganization Act implemented; Second Five-Year Plan launched",
+        "category": "Political",
+        "id": 80,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/States_Reorganisation_Act,_1956"
+        }
+        ]
+    },
+    {
+        "year": 1957,
+        "event": "First television service starts in Delhi",
+        "category": "Scientific/Technological",
+        "id": 81,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Television_in_India"
+        }
+        ]
+    },
+    {
+        "year": 1958,
+        "event": "DRDO (Defence Research and Development Organisation) established",
+        "category": "Military/Security",
+        "id": 82,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/DRDO"
+        }
+        ]
+    },
+    {
+        "year": 1959,
+        "event": "Dalai Lama seeks asylum in India; Armed Forces Special Powers Act passed",
+        "category": "Political",
+        "id": 83,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
+        }
+        ]
+    },
+    {
+        "year": 1960,
+        "event": "Indus Water Treaty signed with Pakistan; First Agricultural University established",
+        "category": "Political",
+        "id": 84,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indus_Waters_Treaty"
+        }
+        ]
+    },
+    {
+        "year": 1961,
+        "event": "Liberation of Goa from Portuguese rule through Operation Vijay",
+        "category": "Military/Security",
+        "id": 85,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Annexation_of_Goa"
+        }
+        ]
+    },
+    {
+        "year": 1962,
+        "event": "Indo-China War results in Indian defeat; National Defense Academy established",
+        "category": "Military/Security",
+        "id": 86,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Sino-Indian_War"
+        }
+        ]
+    },
+    {
+        "year": 1963,
+        "event": "First Indian communication satellite launched; Nagaland becomes a state",
+        "category": "Scientific/Technological",
+        "id": 87,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Nagaland"
+        }
+        ]
+    },
+    {
+        "year": 1964,
+        "event": "Death of Nehru; Lal Bahadur Shastri becomes PM; ISRO established",
+        "category": "Political",
+        "id": 88,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation"
+        }
+        ]
+    },
+    {
+        "year": 1965,
+        "event": "Indo-Pakistan War; Green Revolution begins",
+        "category": "Military/Security",
+        "id": 89,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1965"
+        }
+        ]
+    },
+    {
+        "year": 1966,
+        "event": "Indira Gandhi becomes first woman Prime Minister; Rupee devalued by 37%",
+        "category": "Political",
+        "id": 90,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indira_Gandhi"
+        }
+        ]
+    },
+    {
+        "year": 1967,
+        "event": "Anti-Hindi agitations in Tamil Nadu; ASEAN established with India as partner",
+        "category": "Political",
+        "id": 91,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Anti-Hindi_agitations_of_Tamil_Nadu"
+        }
+        ]
+    },
+    {
+        "year": 1968,
+        "event": "First Indian nuclear power station at Tarapur becomes operational",
+        "category": "Scientific/Technological",
+        "id": 92,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Tarapur_Atomic_Power_Station"
+        }
+        ]
+    },
+    {
+        "year": 1969,
+        "event": "Nationalization of 14 major banks; Congress Party split",
+        "category": "Economical/Financial",
+        "id": 93,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Banking_in_India#Nationalisation_in_the_1960s"
+        }
+        ]
+    },
+    {
+        "year": 1970,
+        "event": "Indian Airlines founded; Patents Act passed",
+        "category": "Economical/Financial",
+        "id": 94,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indian_Airlines"
+        }
+        ]
+    },
+    {
+        "year": 1971,
+        "event": "Indo-Pakistan War leads to creation of Bangladesh; Postal Index Number (PIN) introduced",
+        "category": "Military/Security",
+        "id": 95,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Indo-Pakistani_War_of_1971"
+        }
+        ]
+    },
+    {
+        "year": 1972,
+        "event": "Shimla Agreement signed with Pakistan; Project Tiger launched",
+        "category": "Political",
+        "id": 96,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Simla_Agreement"
+        }
+        ]
+    },
+    {
+        "year": 1973,
+        "event": "Delhi High Court declares Emergency provisions constitutional; Oil crisis hits India",
+        "category": "Political",
+        "id": 97,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/1973_oil_crisis"
+        }
+        ]
+    },
+    {
+        "year": 1974,
+        "event": "First nuclear test conducted (Smiling Buddha); First Indian satellite Aryabhata launched",
+        "category": "Scientific/Technological",
+        "id": 98,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Smiling_Buddha"
+        }
+        ]
+    },
+    {
+        "year": 1975,
+        "event": "State of Emergency declared; Operation Blue Star conducted",
+        "category": "Political",
+        "id": 99,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/The_Emergency_(India)"
+        }
+        ]
+    },
+    {
+        "year": 1976,
+        "event": "42nd Amendment declares India a socialist, secular republic; 20-point program launched",
+        "category": "Political",
+        "id": 100,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Forty-second_Amendment_of_the_Constitution_of_India"
+        }
+        ]
+    },
+    {
+        "year": 1977,
+        "event": "Emergency lifted; Janata Party forms first non-Congress government",
+        "category": "Political",
+        "id": 101,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Janata_Party"
+        }
+        ]
+    },
+    {
+        "year": 1978,
+        "event": "Second rocket launching station established at Sriharikota; Integrated Rural Development Programme launched",
+        "category": "Scientific/Technological",
+        "id": 102,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre"
+        }
+        ]
+    },
+    {
+        "year": 1979,
+        "event": "Moraji Desai resigns; Charan Singh becomes PM; Sixth Five Year Plan initiated",
+        "category": "Political",
+        "id": 103,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Charan_Singh"
+        }
+        ]
+    },
+    {
+        "year": 1980,
+        "event": "Indira Gandhi returns to power; First color television broadcast in India",
+        "category": "Political",
+        "id": 104,
+        "sources": [
+        {
+            "text": "Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Television_in_India"
+        }
+        ]
+    }
+
+  ]
